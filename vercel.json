@@ -2,10 +2,5 @@
   "buildCommand": "pnpm build",
   "devCommand": "pnpm dev",
   "installCommand": "pnpm install",
-  "framework": null,
-  "functions": {
-    "dist/index.cjs": {
-      "runtime": "nodejs24.x@24"
-    }
-  }
+  "framework": null
 }
