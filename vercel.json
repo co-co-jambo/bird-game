@@ -2,13 +2,5 @@
   "buildCommand": "pnpm build",
   "devCommand": "pnpm dev",
   "installCommand": "pnpm install",
-  "framework": "nextjs",
-  "env": {
-    "DATABASE_URL": {
-      "description": "MySQL database connection string"
-    },
-    "JWT_SECRET": {
-      "description": "JWT secret for session signing"
-    }
-  }
+  "framework": "nextjs"
 }
